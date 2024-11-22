@@ -1,0 +1,39 @@
+# 内容：pt
+# 域名关键字匹配
+DOMAIN-KEYWORD,pt
+# 域名后缀匹配（内站）
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,pt.cdfile.org
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,pt.hdclone.org
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,pt.gtk.pw
+DOMAIN-SUFFIX,pt.keepfrds.com
+DOMAIN-SUFFIX,ptchina.org
+DOMAIN-SUFFIX,sunnypt.top
+DOMAIN-SUFFIX,t.tosky.club
+DOMAIN-SUFFIX,hdpt.xyz
+DOMAIN-SUFFIX,htpt.cc
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,ptvicomo.net
+DOMAIN-SUFFIX,qingwapt.com
+# 域名后缀匹配（外站）
+DOMAIN-SUFFIX,fearnopeer.com
+DOMAIN-SUFFIX,infinitylibrary.net
+DOMAIN-SUFFIX,upscalevault.com
+DOMAIN-SUFFIX,oldtoons.world
+# 域名后缀匹配（9KG）
+DOMAIN-SUFFIX,happyfappy.org
+DOMAIN-SUFFIX,fsm.name,Proxy
+DOMAIN-SUFFIX,milkie.cc
