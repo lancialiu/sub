@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,pt
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,audiences.info
 DOMAIN-SUFFIX,pt.btschool.club
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,pt.cdfile.org
@@ -28,6 +29,9 @@ DOMAIN-SUFFIX,leaves.red
 DOMAIN-SUFFIX,pt.soulvoice.club
 DOMAIN-SUFFIX,ptvicomo.net
 DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdhome.org
+
 # 域名后缀匹配（外站）
 DOMAIN-SUFFIX,fearnopeer.com
 DOMAIN-SUFFIX,infinitylibrary.net
@@ -35,5 +39,4 @@ DOMAIN-SUFFIX,upscalevault.com
 DOMAIN-SUFFIX,oldtoons.world
 # 域名后缀匹配（9KG）
 DOMAIN-SUFFIX,happyfappy.org
-DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,milkie.cc
