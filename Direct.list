@@ -1,6 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,netcup.com
