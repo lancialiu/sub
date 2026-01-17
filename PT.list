@@ -8,26 +8,23 @@ DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,audiences.info
 DOMAIN-SUFFIX,pt.btschool.club
 DOMAIN-SUFFIX,carpt.net
-DOMAIN-SUFFIX,pt.cdfile.org
+DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,cyanbug.net
 DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,pt.hdclone.org
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,pt.gtk.pw
 DOMAIN-SUFFIX,pt.keepfrds.com
 DOMAIN-SUFFIX,ptchina.org
 DOMAIN-SUFFIX,sunnypt.top
-DOMAIN-SUFFIX,t.tosky.club
-DOMAIN-SUFFIX,hdpt.xyz
-DOMAIN-SUFFIX,htpt.cc
 DOMAIN-SUFFIX,leaves.red
 DOMAIN-SUFFIX,pt.soulvoice.club
-DOMAIN-SUFFIX,ptvicomo.net
+DOMAIN-SUFFIX,pandapt.net
+DOMAIN-SUFFIX,pterclub.net
 DOMAIN-SUFFIX,qingwapt.com
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,hdhome.org
@@ -35,12 +32,16 @@ DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,zmpt.cc
+
 
 # 域名后缀匹配（外站）
 DOMAIN-SUFFIX,fearnopeer.com
-DOMAIN-SUFFIX,infinitylibrary.net
 DOMAIN-SUFFIX,upscalevault.com
 DOMAIN-SUFFIX,oldtoons.world
+DOMAIN-SUFFIX,hd-space.org
+
 # 域名后缀匹配（9KG）
 DOMAIN-SUFFIX,happyfappy.org
 DOMAIN-SUFFIX,milkie.cc
